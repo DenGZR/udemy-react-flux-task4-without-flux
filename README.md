@@ -35,11 +35,12 @@ npm install
 Run:
 
 in terminal --> gulp
+
 in web browser --> http://localhost:8888
 
 Community:
 
 http://community.devslopes.com/topic/343/lecture-49-react-weatherapp-component-with-flux
 
-
+![ScreenShot](https://screencast.com/t/AQU7wxdjjai)
 ![alt tag](http://screencast.com/t/AQU7wxdjjai)
